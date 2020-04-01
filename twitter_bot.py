@@ -47,11 +47,11 @@ class instagram:
         #search_box.send_keys(Keys.RETURN)
         sleep(3)
 
-phone='9411132651'
-password='9756813724'
+phone='94111'
+password='sffssff'
 bot=instagram(phone,password)
 bot.login()
-bot.search("sexy")
+bot.search("hey")
 
 
 
